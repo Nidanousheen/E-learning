@@ -1,4 +1,5 @@
 E-learning
+
 PROJECT TITLE:Learning studio: An E-learning Website
 
 OVERVIEW: Trade Treasure is an e-commerce website built on the VS Code editor. Utilizing HTML, CSS, and JavaScript, the website embodies a sleek and elegant design, featuring a white background, classy theme, vibrant orange buttons, and highlighted headings in black.
